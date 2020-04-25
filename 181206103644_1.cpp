@@ -1,4 +1,5 @@
 #include <stdio.h>
+//you are so smart
 typedef struct
 {
 int num;
